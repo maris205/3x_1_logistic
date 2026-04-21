@@ -2,7 +2,7 @@
 
 [🇨🇳 简体中文](readme_cn.md) | [🇬🇧 English](README.md)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18957726.svg)](https://doi.org/10.5281/zenodo.18957726)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18957726.svg)](https://doi.org/10.5281/zenodo.19677694)
 
 ## 1. Introduction
 This repository contains all the numerical simulation code and plotting scripts for the paper **"Spectral Analysis of the Transfer Operator in the Period-3 Logistic Sandbox: A Dynamical Heuristic for the $3x+1$ Problem"**.
@@ -45,7 +45,7 @@ The core code is provided as Jupyter Notebooks (`.ipynb`), relying on standard l
 If you use the code or are inspired by this research, please cite our work:
 
 **APA Format:**
-> Wang, L. (2026). Spectral Analysis of the Transfer Operator in the Period-3 Logistic Sandbox: A Dynamical Heuristic for the $3x+1$ Problem (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18957726
+> Wang, L. (2026). Spectral Analysis of the Transfer Operator in the Period-3 Logistic Sandbox: A Dynamical Heuristic for the $3x+1$ Problem (v2.0). Zenodo. https://doi.org/10.5281/zenodo.19677694
 
 **BibTeX Format:**
 ```bibtex
